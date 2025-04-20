@@ -68,7 +68,7 @@ Two versions are available:
 
 For users who prefer not to set up a local Python environment or want a simpler web-based experience, a Google Colab notebook version of this generator is available:
 
-➡️ **Link to PIAIC ID Card Generator on Google Colab**
+[➡️ **Link to PIAIC ID Card Generator on Google Colab**](https://colab.research.google.com/drive/1l89etSMNsVeg4quoWK3U89SzpQvD995r?authuser=0#scrollTo=POY8h2jOoiCd)
 
 **Benefits:**
 
